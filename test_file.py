@@ -1,0 +1,1 @@
+print("Test from Node.js with base64!")
